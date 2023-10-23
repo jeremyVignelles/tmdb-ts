@@ -1,6 +1,6 @@
 {
-  "name": "tmdb-ts",
-  "version": "1.4.0",
+  "name": "@jeremyvignelles/tmdb-ts",
+  "version": "1.5.0",
   "description": "TMDB v3 library wrapper",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -18,7 +18,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/blakejoy/tmdb-ts.git"
+    "url": "https://github.com/jeremyVignelles/tmdb-ts.git"
   },
   "keywords": [
     "tmdb",
